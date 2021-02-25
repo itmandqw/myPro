@@ -1,0 +1,7 @@
+源网站地址： https://www.jianshu.com/p/a6a8ffea227d
+
+action提交的是一个mutation, mutation提交的是一个commit
+
+疑问点：
+1， mapState系列是怎么工作的，
+2，当全局state和局部state共存的时候怎么使用
